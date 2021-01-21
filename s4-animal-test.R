@@ -18,7 +18,7 @@ str(hawk(weight = 4))
 
 str(lynx(name = "", weight = NA + 1))
 str(mouse(weight = 100))
-
+str(mouse(weight = 100, hide = 0.01))
 
 # "meet" method -----------------------------------------------------------
 
